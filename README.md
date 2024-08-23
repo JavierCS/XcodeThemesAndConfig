@@ -38,7 +38,7 @@ Has terminado de configurar la terminal.
 
 Lo primero será configurar el tema **Monokai** para lo cual debes seguir los siguientes pasos:
 
-1. Copia el archivo ubicado `/Xcode/Monokai.xccolortheme` de este repositorio.
+1. Copia el archivo ubicado `/Xcode/Themes/Monokai.xccolortheme` de este repositorio.
 2. Usa la **Spotlight** para abrir la aplicación **Terminal**.
 3. Entra a la siguiente ruta con el comando `cd ~/Library/Developer/Xcode/UserData/`.
 4. Usa el comando `open .`.
