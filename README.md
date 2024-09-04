@@ -31,6 +31,7 @@ Una vez que el tema `Oh My Zsh Theme` aparezca en la sección de `Perfiles` de l
 1. Seleccionar el tema en la barra vertical de lado izquierdo.
 2. Esto habilitará un botón con la leyenda `Predeterminado` a lado del botón que usamos previamente para importar el archivo `/Terminal/Oh My Zsh Theme.terminal`.
 3. Click en el botón `Predeterminado`.
+4. En la opción **Tipo de letra** seleccionarás alguna opción **Roboto Mono** en el peso que prefieras y de tamaño 13.
 
 Has terminado de configurar la terminal.
 
